@@ -1,0 +1,15 @@
+merkle_tree_js
+
+merkle_tree_0000.zkey
+merkle_tree_0001.zkey
+merkle_tree.r1cs
+merkle_tree.sym
+pot12_0000.ptau
+pot12_0001.ptau
+pot12_final.ptau
+proof.json
+public.json
+verification_key.json
+verifier.sol
+witness.wtns
+parameters.txt
